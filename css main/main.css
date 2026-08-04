@@ -441,4 +441,3 @@ h1, h2, h3, h4 { font-family: var(--font-display); font-weight: 500; line-height
   .hero-ctas { flex-direction: column; width: 100%; }
   .btn-primary, .btn-secondary { width: 100%; justify-content: center; }
 }
-
